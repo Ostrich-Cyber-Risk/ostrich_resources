@@ -84,4 +84,7 @@ the following tags are supported by ostrich and will be replaced with data when 
 @lossMagnitudeProportionChart2@ (if comparing two scenarios)
 ```
 
+## Some important info regarding tags
+Note that the current version of the engine can only parse tags that are in text, headers, footers, and tables. text within images or text boxes will be ignored (we cannot parse it).
+
 
